@@ -13,7 +13,8 @@
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PSC-F&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 学校: 就读于陕西理工大学_计算机科学专业  
+- 🔭 学校: 陕西理工大学
+- 🎉 专业: 计算机科学与技术
 - 🏛  工作: NewView Developer 
 - 🌱 近况: 最近在学习Go
 - 💬 兴趣: 喜爱计算机
