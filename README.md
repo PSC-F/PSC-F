@@ -8,8 +8,8 @@
 ![](https://img.shields.io/badge/Front-Vue-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Other-ETL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Learning-Kafka-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Learning-GRPC-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Kafka-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Redis-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PSC-F&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
